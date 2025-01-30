@@ -1,4 +1,4 @@
- Diving into ETL Process with MINIO, Prefect, PySpark, and Kubernetes
+ Diving into ETL Process with MINIO, Prefect, PySpark, and Kubernetes (Full ETL:ErkinOzkanETL.jpg)
 ![image](https://github.com/user-attachments/assets/ff0509fc-b0d3-4a64-a8e3-c8cc870f0e61)
 
 Recently, I took on an interesting project to explore the ETL process using some new tools—MINIO, Prefect, PySpark, and Kubernetes.
